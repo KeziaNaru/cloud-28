@@ -13,3 +13,5 @@
 7.Created account in aws educate and went to central aws management console
 
 8.After that the chart is deployed successfully.
+
+LINK: https://dev3906.d3b4fz1f9tvcz1.amplifyapp.com
